@@ -6,11 +6,11 @@ export default function Hero() {
     <div className="relative min-h-screen flex flex-col">
       <div className="flex-grow flex flex-col justify-center px-6 md:px-10 lg:px-16 py-20 z-10">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-6">
-          Dive Into The Future
+          Dive Into The Sound
         </h1>
         <p className="text-xl md:text-2xl text-white/90 max-w-2xl mb-10">
           Experience the power of innovation with our cutting-edge solutions 
-          that transform the digital landscape.
+          that transform the digital sound landscape.
         </p>
         <div className="flex flex-col sm:flex-row gap-4">
           <Link 
