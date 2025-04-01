@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <nav className="w-full py-4 px-6 flex justify-between items-center z-10 relative">
       <div className="text-white text-2xl font-bold">
-        <Link href="/">OceanSound</Link>
+        <Link href="/">OceanWaves</Link>
       </div>
       
       <div className="hidden md:flex items-center space-x-8 text-white">

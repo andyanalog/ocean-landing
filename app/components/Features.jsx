@@ -6,7 +6,7 @@ export default function Features() {
     {
       icon: <Anchor className="h-12 w-12 text-blue-400" />,
       title: "Stability",
-      description: "Our solutions provide rock-solid stability for your business operations."
+      description: "Our solutions provide rock-solid stability for your sound operations."
     },
     {
       icon: <Shield className="h-12 w-12 text-blue-400" />,
@@ -24,7 +24,7 @@ export default function Features() {
     <section className="py-20 px-6 bg-white/10 backdrop-blur-md">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-white text-center mb-16">
-          Why Choose OceanSound
+          Why Choose OceanWaves
         </h2>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">

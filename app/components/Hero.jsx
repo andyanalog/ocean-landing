@@ -14,13 +14,13 @@ export default function Hero() {
         </p>
         <div className="flex flex-col sm:flex-row gap-4">
           <Link 
-            href="/get-started" 
+            href="/" 
             className="bg-white text-blue-800 px-8 py-3 rounded-md text-lg font-medium hover:bg-blue-100 transition-colors text-center"
           >
             Get Started
           </Link>
           <Link 
-            href="/learn-more" 
+            href="/" 
             className="bg-blue-700/40 text-white border border-white/30 px-8 py-3 rounded-md text-lg font-medium backdrop-blur-sm hover:bg-blue-700/60 transition-colors text-center"
           >
             Learn More

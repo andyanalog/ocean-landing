@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Ocean Landing Page",
-  description: "A beautiful landing page with Three.js ocean animation",
+  description: "A beautiful landing page with ocean waves animation",
 }
 
 export default function RootLayout({
