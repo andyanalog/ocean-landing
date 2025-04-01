@@ -131,7 +131,7 @@ const RealisticOcean: React.FC = () => {
       
       // Moon position (slightly moving to add realism)
       const moonX = width * 0.85 + Math.sin(time * 0.0002) * 5;
-      const moonY = height * 0.2 + Math.cos(time * 0.0003) * 3;
+      const moonY = height * 0.3 + Math.cos(time * 0.0003) * 3;
       const moonRadius = width * 0.04; // Proportional to screen size
       
       // Draw moon glow
