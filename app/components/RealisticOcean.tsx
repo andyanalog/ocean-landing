@@ -39,7 +39,7 @@ const RealisticOcean: React.FC = () => {
       { color: 'rgba(4, 13, 27, 0.9)', pos: 0.7 },  // Mid ocean
       { color: 'rgba(8, 21, 46, 0.91)', pos: 0.75 }, // Lighter ocean
       { color: 'rgba(12, 26, 52, 0.7)', pos: 0.8 }, // Surface ocean
-      { color: 'rgba(30, 34, 41, 0.6)', pos: 0.85 } // Wave tops
+      { color: 'rgba(18, 20, 25, 0.76)', pos: 0.85 } // Wave tops
     ];
     
     // Create stars
